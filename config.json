@@ -1,0 +1,7 @@
+{
+    "webhook_url": "MAIN URL FOR PUBLIC LOGS",
+    "webhook_url_for_logs": "PRIVATE WEBHOOK URL CUZ IT SHOWS UR IP, DO IT IN A PRIVATE SERVER",
+    "webhook_name": "webhook name",
+    "api_key": "ipgeolocation.io API Key",
+    "discord_id": "discord user ID"
+}
